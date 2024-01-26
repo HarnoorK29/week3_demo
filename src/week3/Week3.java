@@ -7,6 +7,8 @@ package week3;
 /**
  *
  * @author User
+ @modifiedby Harnoor Kaur 
+ @date 26 Jan ,2024
  */
 public class Week3 {
 
