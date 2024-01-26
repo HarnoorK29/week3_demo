@@ -18,6 +18,7 @@ public class Week3 {
     public static void main(String[] args) {
         System.out.println("Hi");
         // TODO code application logic here
+     // Trying fetch and merge
     }
     
 }
